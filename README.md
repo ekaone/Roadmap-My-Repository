@@ -9,5 +9,10 @@
 - [Country flag in SVG and PNG format](https://github.com/ekaone/Country-Flag)
 - [Countries list from forked](https://github.com/ekaone/Countries)
 
+## 📖 If you like JavaScript goodies, you can reach awesome stuff as below:
 
+- [30 days of JavaScript programming challenge](https://github.com/ekaone/30-Days-Of-JavaScript)
+- [A book series on JavaScript](https://github.com/ekaone/You-Dont-Know-JS)
+- [Modern JavaScript Info Tutorial](https://github.com/ekaone/en.javascript.info)
+- [javascript tips](https://github.com/ekaone/javascript-tips-and-tidbits)
 
