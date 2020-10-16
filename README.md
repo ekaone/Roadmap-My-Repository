@@ -17,3 +17,7 @@
 - [javascript tips](https://github.com/ekaone/javascript-tips-and-tidbits)
 
 ## 🌈 I learn UI Kit, a few of my sratch available here:
+- [Some collection of Chakra UI Components](https://github.com/ekaone/Play-ChakraUI)
+- [Play Tailwind components](https://github.com/ekaone/Tailwind-Collection)
+- [Awesome-tailwindcss - Forked](https://github.com/ekaone/awesome-tailwindcss)
+- [Components from Material UI](https://github.com/ekaone/Cakes-MaterialUI)
