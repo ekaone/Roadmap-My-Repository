@@ -24,6 +24,7 @@
 
 ## 📝 Wanna try State Management Library in React App..?,  I have small cakes:
 - [React Recoil is a state management library for React](https://github.com/ekaone/React-Recoil)
+- [Wizard with React Hook Form with React Redux](https://github.com/ekaone/React-Hook-Form-Wizard)
 
 ## 🚀 Next.js framework
 - [Authentication with NextAuth.js](https://github.com/ekaone/NextJS-Auth)
