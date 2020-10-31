@@ -24,3 +24,8 @@
 
 ## 📝 Wanna try State Management Library in React App..?,  I have small cakes:
 - [React Recoil is a state management library for React](https://github.com/ekaone/React-Recoil)
+
+## 🚀 Next.js framework
+- [Authentication with NextAuth.js](https://github.com/ekaone/NextJS-Auth)
+- [Video JS](https://github.com/ekaone/Nextjs-Videojs)
+- [Youtube API](https://github.com/ekaone/Nextjs-Youtube-API)
