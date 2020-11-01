@@ -30,3 +30,5 @@
 - [Authentication with NextAuth.js](https://github.com/ekaone/NextJS-Auth)
 - [Video JS](https://github.com/ekaone/Nextjs-Videojs)
 - [Youtube API](https://github.com/ekaone/Nextjs-Youtube-API)
+
+## 🤷‍♂️ Awesome forked
