@@ -23,6 +23,7 @@
 - [Components from Material UI](https://github.com/ekaone/Cakes-MaterialUI)
 
 ## 📝 Wanna try State Management Library in React App..?,  I have small cakes:
+- [Zustand state-management, simple, fast and NO-NEED Context.Provider](https://github.com/ekaone/Zustand-State-Management)
 - [React Recoil is a state management library for React](https://github.com/ekaone/React-Recoil)
 - [Wizard with React Hook Form with React Redux](https://github.com/ekaone/React-Hook-Form-Wizard)
 
