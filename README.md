@@ -33,3 +33,7 @@
 - [Youtube API](https://github.com/ekaone/Nextjs-Youtube-API)
 
 ## 🤷‍♂️ Awesome forked
+- [Minimalist stylesheet for HTML elements](https://github.com/ekaone/mvp)
+- [A minimalist CSS framework](https://github.com/ekaone/milligram)
+- [Collection of CSS styles to make simple websites](https://github.com/ekaone/water.css)
+- [Ready-to-use Tailwind CSS blocks](https://github.com/ekaone/tailblocks)
