@@ -21,6 +21,7 @@
 - [Play Tailwind components](https://github.com/ekaone/Tailwind-Collection)
 - [Awesome-tailwindcss - Forked](https://github.com/ekaone/awesome-tailwindcss)
 - [Components from Material UI](https://github.com/ekaone/Cakes-MaterialUI)
+- [Milligram - A minimalist CSS framework](https://github.com/ekaone/Milligram-CSS-Minimalist)
 
 ## 📝 Wanna try State Management Library in React App..?,  I have small cakes:
 - [Zustand state-management, simple, fast and `NO-NEED` Context.Provider](https://github.com/ekaone/Zustand-State-Management)
@@ -37,3 +38,7 @@
 - [A minimalist CSS framework](https://github.com/ekaone/milligram)
 - [Collection of CSS styles to make simple websites](https://github.com/ekaone/water.css)
 - [Ready-to-use Tailwind CSS blocks](https://github.com/ekaone/tailblocks)
+
+## 📺 Play around Video
+- [Use React Player library](https://github.com/ekaone/Video-Player)
+- [Use Video.js library](https://github.com/ekaone/Nextjs-Videojs)
