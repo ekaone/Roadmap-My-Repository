@@ -14,7 +14,7 @@
 - [30 days of JavaScript programming challenge](https://github.com/ekaone/30-Days-Of-JavaScript)
 - [A book series on JavaScript](https://github.com/ekaone/You-Dont-Know-JS)
 - [Modern JavaScript Info Tutorial](https://github.com/ekaone/en.javascript.info)
-- [javascript tips](https://github.com/ekaone/javascript-tips-and-tidbits)
+- [Javascript tips](https://github.com/ekaone/javascript-tips-and-tidbits)
 
 ## 🌈 I learn UI Kit, a few of my sratch available here:
 - [Some collection of Chakra UI Components](https://github.com/ekaone/Play-ChakraUI)
@@ -29,6 +29,7 @@
 - [Wizard with React Hook Form with React Redux](https://github.com/ekaone/React-Hook-Form-Wizard)
 
 ## 🚀 Next.js framework
+- [Covid-19 card info](https://github.com/ekaone/Next-c19)
 - [Authentication with NextAuth.js](https://github.com/ekaone/NextJS-Auth)
 - [Video JS](https://github.com/ekaone/Nextjs-Videojs)
 - [Youtube API](https://github.com/ekaone/Nextjs-Youtube-API)
