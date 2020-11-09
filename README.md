@@ -43,3 +43,7 @@
 ## 📺 Play around Video
 - [Use React Player library](https://github.com/ekaone/Video-Player)
 - [Use Video.js library](https://github.com/ekaone/Nextjs-Videojs)
+
+## 🔐 Security layer strictly important, I create small demo Authentication
+- [Nextjs-Auth0](https://github.com/ekaone/Nextjs-Auth0)
+- [Node.js Auth0 with OpenID](https://github.com/ekaone/Auth0-Express-OpenID)
